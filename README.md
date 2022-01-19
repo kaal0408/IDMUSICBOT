@@ -1,11 +1,11 @@
-<h1 align= center><b>⭐️ Altronix Music Bot⭐️</b></h1>
+<h1 align= center><b>⭐️ MAMBA MUSIC ID BOT⭐️</b></h1>
 
 <h2 align="center">
     Deployment Methods
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/D3stroyer-xD/ID-MusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/SUKHPAL443/IDMUSICBOT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 </p>
 
