@@ -1,5 +1,5 @@
 {
-    "name": "TG-MusicPlayer",
+    "name": "MAMBAMUSICIDBOT",
     "description": "A Telegram Userbot to play Songs in Voice Chat",
     "logo": "https://telegra.ph/file/f92957a74ed573b1f8e2b.jpg",
     "keywords": [
@@ -7,7 +7,7 @@
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/D3stroyer-xD/ID-MusicBot/",
+    "repository": "https://github.com/SUKHPAL443/IDMUSICBOT",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
